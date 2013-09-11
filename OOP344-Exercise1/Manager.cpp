@@ -1,6 +1,7 @@
 #include "Manager.h"
 #include <iostream>
 
+//the manager needs to be changed
 Manager::Manager()
    {
    totalHours = 0;
